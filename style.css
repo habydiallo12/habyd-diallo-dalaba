@@ -1,0 +1,12 @@
+
+
+img {
+  width: 100%;
+}
+h1 {
+    color: red;
+}
+
+.item img {
+  width: 500px;
+}
